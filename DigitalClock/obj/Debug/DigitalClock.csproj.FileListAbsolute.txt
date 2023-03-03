@@ -1,0 +1,11 @@
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Excalibur\Desktop\DigitalClock\DigitalClock\DigitalClock\obj\Debug\DigitalClock.formControl.resources
